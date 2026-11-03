@@ -1,3 +1,4 @@
+
 # QueueCare – Hospital Appointment & Live Queue Management System
 
 ## Project Overview
@@ -13,6 +14,12 @@ QueueCare is a hospital appointment booking and live queue management applicatio
 - View booked appointments
 - Live queue information
 - Patient profile details
+
+## Screenshots
+
+### Login Page
+
+![QueueCare Login](screenshots/login.png)
 
 ## Technologies Used
 
@@ -50,4 +57,4 @@ This project was developed to practice Java Full Stack development by building a
 
 ## Author
 
-Sree Harsha Vardhan
+Sree Harsha Udatha
