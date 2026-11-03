@@ -1,16 +1,53 @@
-# React + Vite
+# QueueCare – Hospital Appointment & Live Queue Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+QueueCare is a hospital appointment booking and live queue management application. It helps patients book appointments with doctors and view their appointment details and queue status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Patient login using OTP verification
+- Patient registration
+- Book hospital appointments
+- Select department and doctor
+- View booked appointments
+- Live queue information
+- Patient profile details
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the Oxlint configuration
+### Frontend
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Backend
+- Java
+- Spring Boot
+- REST API
+
+### Database
+- MySQL
+
+### Tools
+- Visual Studio Code
+- Eclipse IDE
+- MySQL Workbench
+- Git
+- GitHub
+- Postman
+
+## Project Repositories
+
+- Frontend: https://github.com/Sreeharshaudatha/QueueCare-Frontend
+- Backend: https://github.com/Sreeharshaudatha/QueueCare
+
+## Project Purpose
+
+This project was developed to practice Java Full Stack development by building a hospital appointment booking and queue management application using React, Spring Boot, and MySQL.
+
+## Author
+
+Sree Harsha Vardhan
